@@ -7,10 +7,10 @@ Aplicação móvel desenvolvida para a disciplina de **Programação para Dispos
 ## 📸 Demonstração
 
 <div align="center">
-  <img src="./assets/usuarios.jpeg" alt="Demonstração da Aplicação" width="300"/>
+  <img src="./assets/app-preview.jpeg" alt="Demonstração da Aplicação" width="300"/>
 </div>
 
-> *Nota: Coloca a captura de ecrã da aplicação na pasta `assets` com o nome `app-preview.png` (ou altera o caminho acima para o local onde guardaste a imagem).*
+> *Nota: Coloca a captura de ecrã da aplicação na pasta `assets` com o nome `app-preview.jpeg` (ou altera o caminho acima para o local onde guardaste a imagem).*
 
 ---
 
